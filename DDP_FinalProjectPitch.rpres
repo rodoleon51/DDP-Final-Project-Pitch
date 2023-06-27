@@ -1,3 +1,10 @@
+---
+title: "DDP Final Project Pitch"
+author: "Rodolfo León"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
